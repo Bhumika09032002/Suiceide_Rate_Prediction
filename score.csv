@@ -1,0 +1,8 @@
+algorithms,scores
+BayesianRidge,0.565582224
+Lasso,0.568741562
+Ridge,0.565253463
+KNeighborsRegressor,0.535805984
+PolynomialRegression,0.932690273
+LinearRegression,0.564026488
+RandomForestRegressor,0.959145215
